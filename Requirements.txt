@@ -1,2 +1,4 @@
 Django==3.0
 phonenumbers==8.12.30
+asgiref==3.7.2
+gunicorn
