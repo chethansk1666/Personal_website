@@ -1,3 +1,2 @@
 Django==3.0
-python== 3.7.10
 phonenumbers==8.12.30
